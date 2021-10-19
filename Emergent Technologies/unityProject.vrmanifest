@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.emergenttechnologies.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Neul_\\Kat's uni shit aa\\unity shit\\Emerging-Technologies\\Emergent Technologies\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Emergent Technologies [Testing]"
+        }
+      }
+    }
+  ]
+}
